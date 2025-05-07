@@ -1,0 +1,24 @@
+PUBEGE SDK DUMP 3.8
+Update your ESP
+
+
+
+64 Bit 3.8 Offsets
+
+GName Offset : 0xHidden) + 0x110);
+GWorld Offset : 0xddccb90) - 0x20) + 0x30);
+VMatrix Offset : 0xe34b570) + 0xc0);
+
+GNames_Offset : 0x7b137b0
+GEngine_Offset : 0xe34b570 //UlocalPlayer
+GEngine_Offset Offset : 0xe370a98 //UEngine
+GUObject_Offset : 0xe0242e0
+GetActorArray_Offset : 0x9c3ea88
+Canvas_Map_Offset : 0xe0259c0
+Process_Event_Offset : 0xc4313ac
+GNativeAndroidApp_Offset : 0xdd87570
+PostRender_Offset : 0x9b4d0e8
+KillMessage_Offset : 0x5f16a58
+
+
+@SANT_SRC
